@@ -4,7 +4,7 @@ This is a Google Colab notebook with QBittorrent & Rclone, which can download to
 Click on the "Open in Colab" Button & Press Ctrl+F9
 
 <a href="https://colab.research.google.com/github/cheems/Torrents-to-Google-Drive/blob/master/Torrents_to_Google_Drive.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-<br>
+
 For the people not familiar with the webUI, this is what it looks like:
-<br>
+
 <img src="https://i.snag.gy/ZAg2PS.jpg">
