@@ -1,5 +1,5 @@
 # Torrents to Google Drive
-This is a Google Colab notebook with QBittorrent & Rclone, which can download torrents to Google Drive.
+This is a Google Colab notebook with qBittorrent & Rclone, which can download torrents to Google Drive.
 
 Click on the "Open in Colab" Button & Press Ctrl+F9
 
